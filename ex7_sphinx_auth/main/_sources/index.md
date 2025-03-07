@@ -1,4 +1,4 @@
-# Case Study: Options
+# HW5: SPX Hedging with Options
 
 Last updated: {sub-ref}`today` 
 
@@ -8,12 +8,12 @@ Last updated: {sub-ref}`today`
 ```{toctree}
 :maxdepth: 1
 :caption: Notebooks 📖
-notebooks/corporate_hedging.ipynb
-notebooks/spx_hedging.ipynb
+notebooks/01_spx_hedging.ipynb
 ```
 
-## Module Documentation
 
-- {ref}`genindex`
-- {ref}`modindex`
-- {ref}`search`
+```{toctree}
+:maxdepth: 1
+:caption: Appendix 💡
+myst_markdown_demos.md
+```
